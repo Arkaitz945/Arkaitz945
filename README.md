@@ -12,7 +12,7 @@
 
 ### 📌 Último Proyecto  
 🎯 **Conversor de Monedas en PHP**  
-🔗 [Ver Proyecto](https://github.com/Arkaitz945/conversor-monedas) (En proceso) 
+🔗 [Ver Proyecto](https://github.com/Arkaitz945/Conversor-de-Monedas-en-PHP) (En proceso) 
 
 ### 📫 ¡Conéctate conmigo!  
  
