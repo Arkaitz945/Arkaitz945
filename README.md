@@ -21,3 +21,6 @@
 ---
 
 ⭐ **Si te gusta mi trabajo, ¡dale una estrella a mis proyectos!** 🚀  
+
+## Estadisticas GitHub
+![Arkaitz945's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arkaitz945&show_icons=true&theme=radical)
