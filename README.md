@@ -7,7 +7,7 @@
 
 ### 🛠️ Tecnologías que Uso  
 - 💻 **Lenguajes:** PHP, JavaScript, HTML, CSS  
-- 🛠️ **Herramientas:** Git, MySQL, Laravel, XAMPP  
+- 🛠️ **Herramientas:** Git, MySQL, XAMPP  
 - 🎨 **Frontend:** Bootstrap
 
 ### 📌 Último Proyecto  
