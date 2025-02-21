@@ -15,7 +15,7 @@
 🔗 [Ver Proyecto](https://github.com/Arkaitz945/Conversor-de-Monedas-en-PHP) (En proceso) 
 
 ### 🤝 Colaboré en
-**E-Commerce de Comida para Mascotas**
+🐶 **E-Commerce de Comida para Mascotas**   
 🔗 [Ver Proyecto](https://github.com/EloySM/Proyecto)
 
 ### 📫 ¡Conéctate conmigo!  
