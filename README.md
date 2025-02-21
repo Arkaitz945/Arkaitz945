@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Samuel Arkaitz Abad Roca]  
 
-<!--
-**Arkaitz945/Arkaitz945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mí
+- 🎓 Actualmente aprendiendo PHP, APIs y desarrollo web.  
+- 🔥 Apasionado por la tecnología y la programación.  
+- 💡 Explorando nuevas tecnologías.  
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías que Uso  
+- 💻 **Lenguajes:** PHP, JavaScript, HTML, CSS  
+- 🛠️ **Herramientas:** Git, MySQL, Laravel, XAMPP  
+- 🎨 **Frontend:** Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Último Proyecto  
+🎯 **Conversor de Monedas en PHP**  
+🔗 [Ver Proyecto](https://github.com/Arkaitz945/conversor-monedas) (En proceso) 
+
+### 📫 ¡Conéctate conmigo!  
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-arkaitz-abad-roca-197839352/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelarkaitzabadroca0@gmail.com)
+---
+
+⭐ **Si te gusta mi trabajo, ¡dale una estrella a mis proyectos!** 🚀  
