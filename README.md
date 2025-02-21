@@ -14,6 +14,9 @@
 🎯 **Conversor de Monedas en PHP**  
 🔗 [Ver Proyecto](https://github.com/Arkaitz945/Conversor-de-Monedas-en-PHP) (En proceso) 
 
+### 🤝 **Colaboré** en
+🔗 [Ver Proyecto](https://github.com/EloySM/Proyecto)
+
 ### 📫 ¡Conéctate conmigo!  
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-arkaitz-abad-roca-197839352/)
