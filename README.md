@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Samuel Arkaitz Abad Roca
+# 👋 ¡Hola! Soy Arkaitz 
 
 ### 🚀 Sobre Mí
 - 🎓 Actualmente aprendiendo PHP, APIs y desarrollo web.  
