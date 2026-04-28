@@ -24,7 +24,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelarkaitzabadroca0@gmail.com)
 ---
 
-⭐ **Si te gusta mi trabajo, ¡dale una estrella a mis proyectos!** 🚀  
 
 ## Estadisticas GitHub
 ![Arkaitz945's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arkaitz945&show_icons=true&theme=radical)
